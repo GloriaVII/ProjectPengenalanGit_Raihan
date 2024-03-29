@@ -1,4 +1,4 @@
-# ProjectPengenalanGit_Raihan Putra Taufik
+# Pengenalan Git_Raihan Putra Taufik
 ## Repository ini dibuat sebagai assignment Pengenalan Git part 1.
 Pada Assignment kali ini berbasis Tugas Individu. Berikut merupakan tugas yang harus dikerjakan:
 1. Buatlah repository baru dengan menggunakan akun github pribadi
