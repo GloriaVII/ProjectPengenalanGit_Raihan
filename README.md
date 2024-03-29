@@ -11,7 +11,7 @@ Pada Assignment kali ini berbasis Tugas Individu. Berikut merupakan tugas yang h
 ### Task 1 Basic OOP
 Pada task 1, mentee diminta untuk membuat Class Marketing data ETL. Dari Class tersebut memiliki atribut fungsi, yaitu:
 1. Extract: Import dan membaca sebuah file CSV
-2. Transform: Terdapat dua fungsi transform, yaitu mengubah format penanggalan dan melakukan penghapusan pada baris kosong
+2. Transform: Terdapat dua fungsi transform yang kelompok kami lakukan, yaitu mengubah format penanggalan dan melakukan penghapusan pada baris kosong
 3. Store: Berfungsi untuk menyimpan file yang telah dimodifikasi dalam directory file python, seperti Save As
 
 ### Task 2 Inheritance & Polymorphism 
