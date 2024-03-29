@@ -18,7 +18,5 @@ Pada task 1, mentee diminta untuk membuat Class Marketing data ETL. Dari Class t
 Pada task 2, mentee diminta untuk mempraktikan prinsip OOP, yaitu Inheritance dan Polymorphism.
 Berikut merupakan perintah yang terkandung dalam tugas:
 1. Gunakan inheritance untuk membuat class TargetedMarketingETL yang mewarisi dari MarketingDataETL
-2. Tambahkan metode segment_customers() yang mengelompokkan pelanggan berdasarkan kriteria tertentu
-   Pada tugas yang kelompok kami kerjakan, pengelompokan dilakukan berdasarkan Kategori Produk dan Nominal Pengeluaran.
-3. Demonstrasi polymorphism dengan meng-override metode transform() dalam TargetedMarketingETL untuk menambahkan logika segmentasi pelanggan ke dalam proses transformasi.
-   Melakukan penyimpanan kembali dengan meng-override fungsi store sebelumnya pada task 1 
+2. Tambahkan metode segment_customers() yang mengelompokkan pelanggan berdasarkan kriteria tertentu. Pada tugas yang kelompok kami kerjakan, pengelompokan dilakukan berdasarkan Kategori Produk dan Nominal Pengeluaran.
+3. Demonstrasi polymorphism dengan meng-override metode transform() dalam TargetedMarketingETL untuk menambahkan logika segmentasi pelanggan ke dalam proses transformasi. Melakukan penyimpanan kembali dengan meng-override fungsi store sebelumnya pada task 1 
